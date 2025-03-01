@@ -7,7 +7,7 @@ Hello there 👋
 - I am a Software Engineer passionate about Embedded Systems, Software Development, and AI. 
 - With 2 years of experience at TCS, I have automated workflows, optimized system performance, and built scalable solutions.
 
-📌 Experience 💼 Assistant System Engineer | Tata Consultancy Services (2021-2023)  
+📌 Experience 💼 Associate Software Developer | Tata Consultancy Services (2021-2023)  
 - Automated Drupal CMS tasks using Selenium, Python, saving 300+ hours per project.  
 - Developed & optimized client websites ensuring responsive designs.  
 - Ensured 99.9% system uptime while managing project workflows and documentation.  
